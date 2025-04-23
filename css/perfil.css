@@ -59,10 +59,10 @@
 
 .perfis .gerenciando:hover,
 .edicao .salvar:hover,
-.excluir .manter :hover {
-    color: black;
+.excluir .manter:hover {
+    color: white;
     background-color: #E50914;
-    border: solid white 2px;
+    border: solid #E50914 2px;
 }
 
 #Crianca {
@@ -102,7 +102,7 @@
     width: 200px;
 }
 
-.edicao .btn-classicacoes {
+.edicao .btn-classificacoes {
     background-color: rgb(58, 58, 58);
     color: white;
     padding: 2px 10px;
